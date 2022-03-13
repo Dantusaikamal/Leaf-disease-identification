@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Android\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\dantu\OneDrive\Desktop\Kamal\SIH Hackathon\2022\Plant-Disease-Detector-main"
+export "FLUTTER_ROOT=C:\src\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\pavan\OneDrive\Desktop\Leaf-disease-identification"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
