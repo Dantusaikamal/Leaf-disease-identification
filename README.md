@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
-#### (Part of top 50 submissions in Google Solution Challenge)
+  #### (Part of top 50 submissions in Google Solution Challenge :trophy:)
 
 Agriculture is the primary source of livelihood for about 58 per cent of India’s population. Gross Value Added by agriculture, forestry and fishing is estimated at Rs 18.55 lakh crore (US$ 265.51 billion) in FY19(PE).  
 
@@ -74,9 +74,6 @@ That is why we have developed a language translation module that will translate 
 
 # Demo-Preview
 
-
-
-
 https://user-images.githubusercontent.com/65682028/162416027-6ecd288c-de58-4f3b-809f-a2f2c6ab8381.mp4
 
 
@@ -125,7 +122,7 @@ We are looking to use Technology to tackle challenges in Agriculture. And we bel
 
 In order to get started with the application, fork the repository and create a local workspace.
 
-Install Flutter SDK, Android Studio
+Install Flutter SDK, Android Studio/ VS Code
 
 Set the environment variables if necessary
 
@@ -138,6 +135,10 @@ git clone https://github.com/Dantusaikamal/Leaf-disease-identification.git
 2. Install Flutter packages
 ```sh
 flutter pub get
+```
+3. Run the application
+```sh
+flutter run
 ```
 
 # Development
